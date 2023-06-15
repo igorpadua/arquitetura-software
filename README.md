@@ -1,5 +1,11 @@
 # Arquitetura-Software
 
+## Grupo 1
+
+* Adriel Mori Lenner Vinhal
+* Igor Moreira Pádua
+* Paulo Roberto Vieira
+
 ## MMAE - Medicinal/hospitalar Monitoring Assistance for the Elderly
 
 ##### No sistema de gerenciamento hospitalar inteligente, o aspecto do monitoramento do paciente em tempo real desempenha um papel fundamental na melhoria do atendimento ao paciente e na tomada de decisões clínicas. O monitoramento do paciente em tempo real envolve a coleta, análise e interpretação contínuas dos dados do paciente para fornecer informações oportunas e intervenções proativas.
